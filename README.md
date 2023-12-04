@@ -1,0 +1,3 @@
+- Hi, my nickname is @Am1g0lito
+- I'm interested in learning more about HTML and CSS
+- I'm taking a technical computer course for the internet
